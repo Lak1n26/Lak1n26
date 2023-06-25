@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Danila</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/Lak1n26" target="_blank">Danila</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Economics student from Russia 🇷🇺</h3>
 
