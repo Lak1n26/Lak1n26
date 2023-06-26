@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Danila</h1>
 <h3 align="center">self-taught data scientinst</h3>
-<img src=""C:\Users\Данила\Pictures\гит2.jpg"/>
+<img src="https://github.com/Lak1n26/Lak1n26/blob/main/git_pict.jpg"/>
 
 - 🌱 I’m currently learning **machine learning**
 
