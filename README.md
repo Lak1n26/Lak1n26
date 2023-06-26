@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Danila</h1>
-<h3 align="center">self-taught data scientinst</h3>
-<img src="https://github.com/Lak1n26/Lak1n26/blob/main/git_pict.jpg"/>
 
+<img src="https://github.com/Lak1n26/Lak1n26/blob/main/git_pict.jpg"/>
+<h1>Hi 👋, I'm Danila</h1>
+<h3 align="center">self-taught data scientinst</h3>
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **ldvrn01@gmail.com**
+- 📫 How to reach me: **ldvrn01@gmail.com**
 
-- 📄 Know about my experiences [hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645](hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645)
+- 📄 Know about my experiences: [resume](hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
