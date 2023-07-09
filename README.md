@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 - 📫 How to reach me: **ldvrn01@gmail.com**
-- 📄 Know about my experiences: [resume](https://hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645)
+- 📄 Know about my experiences: [resume(rus)](https://hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645), [resume(eng)](https://www.linkedin.com/in/danila-lyapin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
