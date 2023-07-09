@@ -23,15 +23,17 @@
 <h3 align="left">Codewars:</h3>
 <a href="https://www.codewars.com/users/Lak1N/" target="blank"><img src="https://www.codewars.com/users/Lak1N/badges/large"/></a>
 
+<h3 align="left">Github statistics:</h3>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lak1n26&theme=dark&background=000000" alt="lak1n26" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="lak1n26" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lak1n26&theme=dark&background=000000" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lak1n26&theme=dark&background=000000" alt="lak1n26" /></p>
-
-
-
-<!-- 
-<h1 align="center">Hi there, I'm <a href="https://github.com/Lak1n26" target="_blank">Danila</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Economics student from Russia</h3>
--->
 
 
