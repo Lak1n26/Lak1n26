@@ -4,7 +4,7 @@
 <h1>Hi 👋, I'm Danila</h1>
 <h3>self-taught data scientinst</h3>
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **how to relax without a computer**
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-danila_lyapin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danila_lyapin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ldvrn01@gmail.com)
 - 📄 Know about my experiences: [resume (rus)](https://hh.ru/resume/484a1bcfff08821e0f0039ed1f3430314f6645), [resume (eng)](https://www.linkedin.com/in/danila-lyapin/)
 
