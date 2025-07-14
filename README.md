@@ -1,6 +1,6 @@
 
 
-<img src="git_pict_new.jpeg"/>
+<img src="https://github.com/Lak1n26/Lak1n26/blob/main/git_pict_new.jpeg"/>
 
 <h3>self-taught data scientinst</h3>
 
