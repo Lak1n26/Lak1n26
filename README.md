@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Lak1n26/Lak1n26/blob/main/git_pict.jpeg"/>
 
-<h3>self-taught data scientinst</h3>
+<h3>self-taught data scientist</h3>
 
 - 🌱 I’m currently learning **how to relax without a computer**
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-danila_lyapin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danila_lyapin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ldvrn01@gmail.com)
